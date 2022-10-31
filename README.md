@@ -1,7 +1,7 @@
 # Install 
 
 ```
-npm install
+npm install ejs mongoose express
 ```
 
 # Start server
